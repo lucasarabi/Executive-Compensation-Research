@@ -1,0 +1,505 @@
+Symbol,gics_sector_name,gics_sub_industry_name,gics_industry_name,gics_industry_group_name,gics_industry,gics_sector
+LYB UN Equity,Materials,Commodity Chemicals,Chemicals,Materials,151010,15
+AXP UN Equity,Financials,Consumer Finance,Consumer Finance,Financial Services,402020,40
+VZ UN Equity,Communication Services,Integrated Telecommunication Services,Diversified Telecommunication Services,Telecommunication Services,501010,50
+TPL UN Equity,Energy,Oil & Gas Exploration & Production,"Oil, Gas & Consumable Fuels",Energy,101020,10
+AVGO UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+BA UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+SOLV UN Equity,Health Care,Health Care Supplies,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+CAT UN Equity,Industrials,Construction Machinery & Heavy Transportation Equipment,Machinery,Capital Goods,201060,20
+JPM UN Equity,Financials,Diversified Banks,Banks,Banks,401010,40
+CVX UN Equity,Energy,Integrated Oil & Gas,"Oil, Gas & Consumable Fuels",Energy,101020,10
+KO UN Equity,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Beverages,"Food, Beverage & Tobacco",302010,30
+ABBV UN Equity,Health Care,Biotechnology,Biotechnology,"Pharmaceuticals, Biotechnology & Life Sciences",352010,35
+DIS UN Equity,Communication Services,Movies & Entertainment,Entertainment,Media & Entertainment,502020,50
+CPAY UN Equity,Financials,Transaction & Payment Processing Services,Financial Services,Financial Services,402010,40
+EXR UN Equity,Real Estate,Self-Storage REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+XOM UN Equity,Energy,Integrated Oil & Gas,"Oil, Gas & Consumable Fuels",Energy,101020,10
+PSX UN Equity,Energy,Oil & Gas Refining & Marketing,"Oil, Gas & Consumable Fuels",Energy,101020,10
+GE UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+HPQ UN Equity,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",Technology Hardware & Equipment,452020,45
+HD UN Equity,Consumer Discretionary,Home Improvement Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+MPWR UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+IBM UN Equity,Information Technology,IT Consulting & Other Services,IT Services,Software & Services,451020,45
+JNJ UN Equity,Health Care,Pharmaceuticals,Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",352020,35
+LULU UW Equity,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Textiles, Apparel & Luxury Goods",Consumer Durables & Apparel,252030,25
+MCD UN Equity,Consumer Discretionary,Restaurants,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+MRK UN Equity,Health Care,Pharmaceuticals,Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",352020,35
+MMM UN Equity,Industrials,Industrial Conglomerates,Industrial Conglomerates,Capital Goods,201050,20
+AWK UN Equity,Utilities,Water Utilities,Water Utilities,Utilities,551040,55
+BAC UN Equity,Financials,Diversified Banks,Banks,Banks,401010,40
+PFE UN Equity,Health Care,Pharmaceuticals,Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",352020,35
+PG UN Equity,Consumer Staples,Household Products,Household Products,Household & Personal Products,303010,30
+T UN Equity,Communication Services,Integrated Telecommunication Services,Diversified Telecommunication Services,Telecommunication Services,501010,50
+TRV UN Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+RTX UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+ADI UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+WMT UN Equity,Consumer Staples,Consumer Staples Merchandise Retail,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,301010,30
+CSCO UW Equity,Information Technology,Communications Equipment,Communications Equipment,Technology Hardware & Equipment,452010,45
+INTC UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+GM UN Equity,Consumer Discretionary,Automobile Manufacturers,Automobiles,Automobiles & Components,251020,25
+MSFT UW Equity,Information Technology,Systems Software,Software,Software & Services,451030,45
+DG UN Equity,Consumer Staples,Consumer Staples Merchandise Retail,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,301010,30
+CI UN Equity,Health Care,Health Care Services,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+KMI UN Equity,Energy,Oil & Gas Storage & Transportation,"Oil, Gas & Consumable Fuels",Energy,101020,10
+C UN Equity,Financials,Diversified Banks,Banks,Banks,401010,40
+AIG UN Equity,Financials,Multi-line Insurance,Insurance,Insurance,403010,40
+MO UN Equity,Consumer Staples,Tobacco,Tobacco,"Food, Beverage & Tobacco",302030,30
+HCA UN Equity,Health Care,Health Care Facilities,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+IP UN Equity,Materials,Paper & Plastic Packaging Products & Materials,Containers & Packaging,Materials,151030,15
+HPE UN Equity,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",Technology Hardware & Equipment,452020,45
+ABT UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+AFL UN Equity,Financials,Life & Health Insurance,Insurance,Insurance,403010,40
+APD UN Equity,Materials,Industrial Gases,Chemicals,Materials,151010,15
+SMCI UW Equity,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",Technology Hardware & Equipment,452020,45
+RCL UN Equity,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Hotels, Restaurants & Leisure",Consumer Services,253010,25
+HES UN Equity,Energy,Oil & Gas Exploration & Production,"Oil, Gas & Consumable Fuels",Energy,101020,10
+LII UN Equity,Industrials,Building Products,Building Products,Capital Goods,201020,20
+ADM UN Equity,Consumer Staples,Agricultural Products & Services,Food Products,"Food, Beverage & Tobacco",302020,30
+ADP UW Equity,Industrials,Human Resource & Employment Services,Professional Services,Commercial & Professional Services,202020,20
+VRSK UW Equity,Industrials,Research & Consulting Services,Professional Services,Commercial & Professional Services,202020,20
+AZO UN Equity,Consumer Discretionary,Automotive Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+LIN UW Equity,Materials,Industrial Gases,Chemicals,Materials,151010,15
+AVY UN Equity,Materials,Paper & Plastic Packaging Products & Materials,Containers & Packaging,Materials,151030,15
+ENPH UQ Equity,Information Technology,Semiconductor Materials & Equipment,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+MSCI UN Equity,Financials,Financial Exchanges & Data,Capital Markets,Financial Services,402030,40
+BALL UN Equity,Materials,"Metal, Glass & Plastic Containers",Containers & Packaging,Materials,151030,15
+AXON UW Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+DAY UN Equity,Industrials,Human Resource & Employment Services,Professional Services,Commercial & Professional Services,202020,20
+CARR UN Equity,Industrials,Building Products,Building Products,Capital Goods,201020,20
+BK UN Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+OTIS UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+BAX UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+BDX UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+BRK/B UN Equity,Financials,Multi-Sector Holdings,Financial Services,Financial Services,402010,40
+BBY UN Equity,Consumer Discretionary,Computer & Electronics Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+BSX UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+BMY UN Equity,Health Care,Pharmaceuticals,Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",352020,35
+BF/B UN Equity,Consumer Staples,Distillers & Vintners,Beverages,"Food, Beverage & Tobacco",302010,30
+CTRA UN Equity,Energy,Oil & Gas Exploration & Production,"Oil, Gas & Consumable Fuels",Energy,101020,10
+HLT UN Equity,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Hotels, Restaurants & Leisure",Consumer Services,253010,25
+CCL UN Equity,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Hotels, Restaurants & Leisure",Consumer Services,253010,25
+BLDR UN Equity,Industrials,Building Products,Building Products,Capital Goods,201020,20
+UDR UN Equity,Real Estate,Multi-Family Residential REITs,Residential REITs,Equity Real Estate Investment Trusts (REITs),601060,60
+CLX UN Equity,Consumer Staples,Household Products,Household Products,Household & Personal Products,303010,30
+PAYC UN Equity,Industrials,Human Resource & Employment Services,Professional Services,Commercial & Professional Services,202020,20
+CMS UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+CL UN Equity,Consumer Staples,Household Products,Household Products,Household & Personal Products,303010,30
+EPAM UN Equity,Information Technology,IT Consulting & Other Services,IT Services,Software & Services,451020,45
+CAG UN Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+ABNB UW Equity,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Hotels, Restaurants & Leisure",Consumer Services,253010,25
+ED UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+GLW UN Equity,Information Technology,Electronic Components,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment,452030,45
+GDDY UN Equity,Information Technology,Internet Services & Infrastructure,IT Services,Software & Services,451020,45
+CMI UN Equity,Industrials,Construction Machinery & Heavy Transportation Equipment,Machinery,Capital Goods,201060,20
+CZR UW Equity,Consumer Discretionary,Casinos & Gaming,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+DHR UN Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+TGT UN Equity,Consumer Staples,Consumer Staples Merchandise Retail,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,301010,30
+DE UN Equity,Industrials,Agricultural & Farm Machinery,Machinery,Capital Goods,201060,20
+D UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+DOV UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+LNT UW Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+STLD UW Equity,Materials,Steel,Metals & Mining,Materials,151040,15
+MRP-W UN Equity,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+DUK UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+REG UW Equity,Real Estate,Retail REITs,Retail REITs,Equity Real Estate Investment Trusts (REITs),601070,60
+ETN UN Equity,Industrials,Electrical Components & Equipment,Electrical Equipment,Capital Goods,201040,20
+ECL UN Equity,Materials,Specialty Chemicals,Chemicals,Materials,151010,15
+RVTY UN Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+DELL UN Equity,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",Technology Hardware & Equipment,452020,45
+EMR UN Equity,Industrials,Electrical Components & Equipment,Electrical Equipment,Capital Goods,201040,20
+EOG UN Equity,Energy,Oil & Gas Exploration & Production,"Oil, Gas & Consumable Fuels",Energy,101020,10
+AON UN Equity,Financials,Insurance Brokers,Insurance,Insurance,403010,40
+ETR UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+EFX UN Equity,Industrials,Research & Consulting Services,Professional Services,Commercial & Professional Services,202020,20
+EQT UN Equity,Energy,Oil & Gas Exploration & Production,"Oil, Gas & Consumable Fuels",Energy,101020,10
+IQV UN Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+IT UN Equity,Information Technology,IT Consulting & Other Services,IT Services,Software & Services,451020,45
+FDX UN Equity,Industrials,Air Freight & Logistics,Air Freight & Logistics,Transportation,203010,20
+FMC UN Equity,Materials,Fertilizers & Agricultural Chemicals,Chemicals,Materials,151010,15
+BRO UN Equity,Financials,Insurance Brokers,Insurance,Insurance,403010,40
+F UN Equity,Consumer Discretionary,Automobile Manufacturers,Automobiles,Automobiles & Components,251020,25
+NEE UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+BEN UN Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+GRMN UN Equity,Consumer Discretionary,Consumer Electronics,Household Durables,Consumer Durables & Apparel,252010,25
+FCX UN Equity,Materials,Copper,Metals & Mining,Materials,151040,15
+DXCM UW Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+GD UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+GIS UN Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+GPC UN Equity,Consumer Discretionary,Distributors,Distributors,Consumer Discretionary Distribution & Retail,255010,25
+ATO UN Equity,Utilities,Gas Utilities,Gas Utilities,Utilities,551020,55
+GWW UN Equity,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,Capital Goods,201070,20
+HAL UN Equity,Energy,Oil & Gas Equipment & Services,Energy Equipment & Services,Energy,101010,10
+LHX UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+DOC UN Equity,Real Estate,Health Care REITs,Health Care REITs,Equity Real Estate Investment Trusts (REITs),601050,60
+PODD UW Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+FTV UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+HSY UN Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+SYF UN Equity,Financials,Consumer Finance,Consumer Finance,Financial Services,402020,40
+HRL UN Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+AJG UN Equity,Financials,Insurance Brokers,Insurance,Insurance,403010,40
+MDLZ UW Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+CNP UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+HUM UN Equity,Health Care,Managed Health Care,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+WTW UW Equity,Financials,Insurance Brokers,Insurance,Insurance,403010,40
+ITW UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+CDW UW Equity,Information Technology,Technology Distributors,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment,452030,45
+TT UN Equity,Industrials,Building Products,Building Products,Capital Goods,201020,20
+IPG UN Equity,Communication Services,Advertising,Media,Media & Entertainment,502010,50
+IFF UN Equity,Materials,Specialty Chemicals,Chemicals,Materials,151010,15
+GNRC UN Equity,Industrials,Electrical Components & Equipment,Electrical Equipment,Capital Goods,201040,20
+NXPI UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+K UN Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+BR UN Equity,Industrials,Data Processing & Outsourced Services,Professional Services,Commercial & Professional Services,202020,20
+KMB UN Equity,Consumer Staples,Household Products,Household Products,Household & Personal Products,303010,30
+KIM UN Equity,Real Estate,Retail REITs,Retail REITs,Equity Real Estate Investment Trusts (REITs),601070,60
+ORCL UN Equity,Information Technology,Systems Software,Software,Software & Services,451030,45
+KR UN Equity,Consumer Staples,Food Retail,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,301010,30
+LEN UN Equity,Consumer Discretionary,Homebuilding,Household Durables,Consumer Durables & Apparel,252010,25
+LLY UN Equity,Health Care,Pharmaceuticals,Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",352020,35
+CHTR UW Equity,Communication Services,Cable & Satellite,Media,Media & Entertainment,502010,50
+L UN Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+LOW UN Equity,Consumer Discretionary,Home Improvement Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+HUBB UN Equity,Industrials,Electrical Components & Equipment,Electrical Equipment,Capital Goods,201040,20
+IEX UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+MMC UN Equity,Financials,Insurance Brokers,Insurance,Insurance,403010,40
+MAS UN Equity,Industrials,Building Products,Building Products,Capital Goods,201020,20
+SPGI UN Equity,Financials,Financial Exchanges & Data,Capital Markets,Financial Services,402030,40
+MDT UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+VTRS UW Equity,Health Care,Pharmaceuticals,Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",352020,35
+CVS UN Equity,Health Care,Health Care Services,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+DD UN Equity,Materials,Specialty Chemicals,Chemicals,Materials,151010,15
+MU UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+MSI UN Equity,Information Technology,Communications Equipment,Communications Equipment,Technology Hardware & Equipment,452010,45
+CBOE UF Equity,Financials,Financial Exchanges & Data,Capital Markets,Financial Services,402030,40
+NEM UN Equity,Materials,Gold,Metals & Mining,Materials,151040,15
+NKE UN Equity,Consumer Discretionary,Footwear,"Textiles, Apparel & Luxury Goods",Consumer Durables & Apparel,252030,25
+NI UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+NSC UN Equity,Industrials,Rail Transportation,Ground Transportation,Transportation,203040,20
+PFG UW Equity,Financials,Life & Health Insurance,Insurance,Insurance,403010,40
+ES UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+NOC UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+WFC UN Equity,Financials,Diversified Banks,Banks,Banks,401010,40
+NUE UN Equity,Materials,Steel,Metals & Mining,Materials,151040,15
+OXY UN Equity,Energy,Integrated Oil & Gas,"Oil, Gas & Consumable Fuels",Energy,101020,10
+OMC UN Equity,Communication Services,Advertising,Media,Media & Entertainment,502010,50
+OKE UN Equity,Energy,Oil & Gas Storage & Transportation,"Oil, Gas & Consumable Fuels",Energy,101020,10
+RJF UN Equity,Financials,Investment Banking & Brokerage,Capital Markets,Financial Services,402030,40
+PCG UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+PH UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+ROL UN Equity,Industrials,Environmental & Facilities Services,Commercial Services & Supplies,Commercial & Professional Services,202010,20
+PPL UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+APTV UN Equity,Consumer Discretionary,Automotive Parts & Equipment,Automobile Components,Automobiles & Components,251010,25
+COP UN Equity,Energy,Oil & Gas Exploration & Production,"Oil, Gas & Consumable Fuels",Energy,101020,10
+PHM UN Equity,Consumer Discretionary,Homebuilding,Household Durables,Consumer Durables & Apparel,252010,25
+PNW UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+PNC UN Equity,Financials,Diversified Banks,Banks,Banks,401010,40
+PPG UN Equity,Materials,Specialty Chemicals,Chemicals,Materials,151010,15
+PGR UN Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+VLTO UN Equity,Industrials,Environmental & Facilities Services,Commercial Services & Supplies,Commercial & Professional Services,202010,20
+PEG UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+COO UW Equity,Health Care,Health Care Supplies,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+EIX UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+SLB UN Equity,Energy,Oil & Gas Equipment & Services,Energy Equipment & Services,Energy,101010,10
+SCHW UN Equity,Financials,Investment Banking & Brokerage,Capital Markets,Financial Services,402030,40
+SHW UN Equity,Materials,Specialty Chemicals,Chemicals,Materials,151010,15
+WST UN Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+SJM UN Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+SNA UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+AME UN Equity,Industrials,Electrical Components & Equipment,Electrical Equipment,Capital Goods,201040,20
+UBER UN Equity,Industrials,Passenger Ground Transportation,Ground Transportation,Transportation,203040,20
+SO UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+TFC UN Equity,Financials,Regional Banks,Banks,Banks,401010,40
+LUV UN Equity,Industrials,Passenger Airlines,Passenger Airlines,Transportation,203020,20
+WRB UN Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+SWK UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+PSA UN Equity,Real Estate,Self-Storage REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+ANET UN Equity,Information Technology,Communications Equipment,Communications Equipment,Technology Hardware & Equipment,452010,45
+SYY UN Equity,Consumer Staples,Food Distributors,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,301010,30
+CTVA UN Equity,Materials,Fertilizers & Agricultural Chemicals,Chemicals,Materials,151010,15
+TXN UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+TXT UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+TMO UN Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+TJX UN Equity,Consumer Discretionary,Apparel Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+GL UN Equity,Financials,Life & Health Insurance,Insurance,Insurance,403010,40
+JCI UN Equity,Industrials,Building Products,Building Products,Capital Goods,201020,20
+ULTA UW Equity,Consumer Discretionary,Other Specialty Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+UNP UN Equity,Industrials,Rail Transportation,Ground Transportation,Transportation,203040,20
+KEYS UN Equity,Information Technology,Electronic Equipment & Instruments,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment,452030,45
+UNH UN Equity,Health Care,Managed Health Care,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+BX UN Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+VTR UN Equity,Real Estate,Health Care REITs,Health Care REITs,Equity Real Estate Investment Trusts (REITs),601050,60
+LH UN Equity,Health Care,Health Care Services,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+VMC UN Equity,Materials,Construction Materials,Construction Materials,Materials,151020,15
+WY UN Equity,Real Estate,Timber REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+WMB UN Equity,Energy,Oil & Gas Storage & Transportation,"Oil, Gas & Consumable Fuels",Energy,101020,10
+CEG UW Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+WEC UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+ADBE UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+VST UN Equity,Utilities,Independent Power Producers & Energy Traders,Independent Power and Renewable Electricity Producers,Utilities,551050,55
+AES UN Equity,Utilities,Independent Power Producers & Energy Traders,Independent Power and Renewable Electricity Producers,Utilities,551050,55
+EXPD UN Equity,Industrials,Air Freight & Logistics,Air Freight & Logistics,Transportation,203010,20
+AMGN UW Equity,Health Care,Biotechnology,Biotechnology,"Pharmaceuticals, Biotechnology & Life Sciences",352010,35
+AAPL UW Equity,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",Technology Hardware & Equipment,452020,45
+ADSK UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+CTAS UW Equity,Industrials,Diversified Support Services,Commercial Services & Supplies,Commercial & Professional Services,202010,20
+CMCSA UW Equity,Communication Services,Cable & Satellite,Media,Media & Entertainment,502010,50
+TAP UN Equity,Consumer Staples,Brewers,Beverages,"Food, Beverage & Tobacco",302010,30
+KLAC UW Equity,Information Technology,Semiconductor Materials & Equipment,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+MAR UW Equity,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Hotels, Restaurants & Leisure",Consumer Services,253010,25
+FI UN Equity,Financials,Transaction & Payment Processing Services,Financial Services,Financial Services,402010,40
+MKC UN Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+PCAR UW Equity,Industrials,Construction Machinery & Heavy Transportation Equipment,Machinery,Capital Goods,201060,20
+COST UW Equity,Consumer Staples,Consumer Staples Merchandise Retail,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,301010,30
+SYK UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+TSN UN Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+LW UN Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+AMAT UW Equity,Information Technology,Semiconductor Materials & Equipment,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+CAH UN Equity,Health Care,Health Care Distributors,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+CINF UW Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+PARA UW Equity,Communication Services,Broadcasting,Media,Media & Entertainment,502010,50
+DHI UN Equity,Consumer Discretionary,Homebuilding,Household Durables,Consumer Durables & Apparel,252010,25
+EA UW Equity,Communication Services,Interactive Home Entertainment,Entertainment,Media & Entertainment,502020,50
+ERIE UW Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+FICO UN Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+FAST UW Equity,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,Capital Goods,201070,20
+MTB UN Equity,Financials,Regional Banks,Banks,Banks,401010,40
+XEL UW Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+FITB UW Equity,Financials,Diversified Banks,Banks,Banks,401010,40
+GILD UW Equity,Health Care,Biotechnology,Biotechnology,"Pharmaceuticals, Biotechnology & Life Sciences",352010,35
+HAS UW Equity,Consumer Discretionary,Leisure Products,Leisure Products,Consumer Durables & Apparel,252020,25
+HBAN UW Equity,Financials,Regional Banks,Banks,Banks,401010,40
+WELL UN Equity,Real Estate,Health Care REITs,Health Care REITs,Equity Real Estate Investment Trusts (REITs),601050,60
+BIIB UW Equity,Health Care,Biotechnology,Biotechnology,"Pharmaceuticals, Biotechnology & Life Sciences",352010,35
+NTRS UW Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+PKG UN Equity,Materials,Paper & Plastic Packaging Products & Materials,Containers & Packaging,Materials,151030,15
+PAYX UW Equity,Industrials,Human Resource & Employment Services,Professional Services,Commercial & Professional Services,202020,20
+QCOM UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+ROST UW Equity,Consumer Discretionary,Apparel Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+IDXX UW Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+SBUX UW Equity,Consumer Discretionary,Restaurants,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+KEY UN Equity,Financials,Diversified Banks,Banks,Banks,401010,40
+FOXA UW Equity,Communication Services,Broadcasting,Media,Media & Entertainment,502010,50
+FOX UW Equity,Communication Services,Broadcasting,Media,Media & Entertainment,502010,50
+STT UN Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+NCLH UN Equity,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Hotels, Restaurants & Leisure",Consumer Services,253010,25
+USB UN Equity,Financials,Diversified Banks,Banks,Banks,401010,40
+AOS UN Equity,Industrials,Building Products,Building Products,Capital Goods,201020,20
+GEN UW Equity,Information Technology,Systems Software,Software,Software & Services,451030,45
+TROW UW Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+WM UN Equity,Industrials,Environmental & Facilities Services,Commercial Services & Supplies,Commercial & Professional Services,202010,20
+STZ UN Equity,Consumer Staples,Distillers & Vintners,Beverages,"Food, Beverage & Tobacco",302010,30
+IVZ UN Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+INTU UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+MS UN Equity,Financials,Investment Banking & Brokerage,Capital Markets,Financial Services,402030,40
+MCHP UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+CRWD UW Equity,Information Technology,Systems Software,Software,Software & Services,451030,45
+CB UN Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+HOLX UW Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+CFG UN Equity,Financials,Regional Banks,Banks,Banks,401010,40
+JBL UN Equity,Information Technology,Electronic Manufacturing Services,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment,452030,45
+ORLY UW Equity,Consumer Discretionary,Automotive Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+ALL UN Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+EQR UN Equity,Real Estate,Multi-Family Residential REITs,Residential REITs,Equity Real Estate Investment Trusts (REITs),601060,60
+BWA UN Equity,Consumer Discretionary,Automotive Parts & Equipment,Automobile Components,Automobiles & Components,251010,25
+KDP UW Equity,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Beverages,"Food, Beverage & Tobacco",302010,30
+HST UW Equity,Real Estate,Hotel & Resort REITs,Hotel & Resort REITs,Equity Real Estate Investment Trusts (REITs),601030,60
+INCY UW Equity,Health Care,Biotechnology,Biotechnology,"Pharmaceuticals, Biotechnology & Life Sciences",352010,35
+SPG UN Equity,Real Estate,Retail REITs,Retail REITs,Equity Real Estate Investment Trusts (REITs),601070,60
+EMN UN Equity,Materials,Specialty Chemicals,Chemicals,Materials,151010,15
+AVB UN Equity,Real Estate,Multi-Family Residential REITs,Residential REITs,Equity Real Estate Investment Trusts (REITs),601060,60
+PRU UN Equity,Financials,Life & Health Insurance,Insurance,Insurance,403010,40
+UPS UN Equity,Industrials,Air Freight & Logistics,Air Freight & Logistics,Transportation,203010,20
+WBA UW Equity,Consumer Staples,Drug Retail,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,301010,30
+STE UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+MCK UN Equity,Health Care,Health Care Distributors,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+LMT UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+COR UN Equity,Health Care,Health Care Distributors,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+COF UN Equity,Financials,Consumer Finance,Consumer Finance,Financial Services,402020,40
+CPB UW Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+WAT UN Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+NDSN UW Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+DLTR UW Equity,Consumer Staples,Consumer Staples Merchandise Retail,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,301010,30
+DRI UN Equity,Consumer Discretionary,Restaurants,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+EVRG UW Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+MTCH UW Equity,Communication Services,Interactive Media & Services,Interactive Media & Services,Media & Entertainment,502030,50
+NVR UN Equity,Consumer Discretionary,Homebuilding,Household Durables,Consumer Durables & Apparel,252010,25
+NTAP UW Equity,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",Technology Hardware & Equipment,452020,45
+ODFL UW Equity,Industrials,Cargo Ground Transportation,Ground Transportation,Transportation,203040,20
+DVA UN Equity,Health Care,Health Care Services,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+HIG UN Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+IRM UN Equity,Real Estate,Other Specialized REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+EL UN Equity,Consumer Staples,Personal Care Products,Personal Care Products,Household & Personal Products,303020,30
+CDNS UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+TYL UN Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+UHS UN Equity,Health Care,Health Care Facilities,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+SWKS UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+DGX UN Equity,Health Care,Health Care Services,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+ROK UN Equity,Industrials,Electrical Components & Equipment,Electrical Equipment,Capital Goods,201040,20
+KHC UW Equity,Consumer Staples,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",302020,30
+AMT UN Equity,Real Estate,Telecom Tower REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+REGN UW Equity,Health Care,Biotechnology,Biotechnology,"Pharmaceuticals, Biotechnology & Life Sciences",352010,35
+AMZN UW Equity,Consumer Discretionary,Broadline Retail,Broadline Retail,Consumer Discretionary Distribution & Retail,255030,25
+JKHY UW Equity,Financials,Transaction & Payment Processing Services,Financial Services,Financial Services,402010,40
+RL UN Equity,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Textiles, Apparel & Luxury Goods",Consumer Durables & Apparel,252030,25
+BXP UN Equity,Real Estate,Office REITs,Office REITs,Equity Real Estate Investment Trusts (REITs),601040,60
+APH UN Equity,Information Technology,Electronic Components,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment,452030,45
+HWM UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+VLO UN Equity,Energy,Oil & Gas Refining & Marketing,"Oil, Gas & Consumable Fuels",Energy,101020,10
+SNPS UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+CHRW UW Equity,Industrials,Air Freight & Logistics,Air Freight & Logistics,Transportation,203010,20
+ACN UN Equity,Information Technology,IT Consulting & Other Services,IT Services,Software & Services,451020,45
+TDG UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+YUM UN Equity,Consumer Discretionary,Restaurants,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+PLD UN Equity,Real Estate,Industrial REITs,Industrial REITs,Equity Real Estate Investment Trusts (REITs),601025,60
+FE UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+VRSN UW Equity,Information Technology,Internet Services & Infrastructure,IT Services,Software & Services,451020,45
+PWR UN Equity,Industrials,Construction & Engineering,Construction & Engineering,Capital Goods,201030,20
+HSIC UW Equity,Health Care,Health Care Distributors,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+AEE UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+ANSS UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+FDS UN Equity,Financials,Financial Exchanges & Data,Capital Markets,Financial Services,402030,40
+NVDA UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+CTSH UW Equity,Information Technology,IT Consulting & Other Services,IT Services,Software & Services,451020,45
+ISRG UW Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+TTWO UW Equity,Communication Services,Interactive Home Entertainment,Entertainment,Media & Entertainment,502020,50
+RSG UN Equity,Industrials,Environmental & Facilities Services,Commercial Services & Supplies,Commercial & Professional Services,202010,20
+EBAY UW Equity,Consumer Discretionary,Broadline Retail,Broadline Retail,Consumer Discretionary Distribution & Retail,255030,25
+GS UN Equity,Financials,Investment Banking & Brokerage,Capital Markets,Financial Services,402030,40
+SBAC UW Equity,Real Estate,Telecom Tower REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+SRE UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+MCO UN Equity,Financials,Financial Exchanges & Data,Capital Markets,Financial Services,402030,40
+ON UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+BKNG UW Equity,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Hotels, Restaurants & Leisure",Consumer Services,253010,25
+FFIV UW Equity,Information Technology,Communications Equipment,Communications Equipment,Technology Hardware & Equipment,452010,45
+AKAM UW Equity,Information Technology,Internet Services & Infrastructure,IT Services,Software & Services,451020,45
+CRL UN Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+MKTX UW Equity,Financials,Financial Exchanges & Data,Capital Markets,Financial Services,402030,40
+DVN UN Equity,Energy,Oil & Gas Exploration & Production,"Oil, Gas & Consumable Fuels",Energy,101020,10
+TECH UW Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+GOOGL UW Equity,Communication Services,Interactive Media & Services,Interactive Media & Services,Media & Entertainment,502030,50
+TFX UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+ALLE UN Equity,Industrials,Building Products,Building Products,Capital Goods,201020,20
+NFLX UW Equity,Communication Services,Movies & Entertainment,Entertainment,Media & Entertainment,502020,50
+WBD UW Equity,Communication Services,Movies & Entertainment,Entertainment,Media & Entertainment,502020,50
+A UN Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+ELV UN Equity,Health Care,Managed Health Care,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+TRMB UW Equity,Information Technology,Electronic Equipment & Instruments,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment,452030,45
+CME UW Equity,Financials,Financial Exchanges & Data,Capital Markets,Financial Services,402030,40
+JNPR UN Equity,Information Technology,Communications Equipment,Communications Equipment,Technology Hardware & Equipment,452010,45
+DTE UN Equity,Utilities,Multi-Utilities,Multi-Utilities,Utilities,551030,55
+NDAQ UW Equity,Financials,Financial Exchanges & Data,Capital Markets,Financial Services,402030,40
+CE UN Equity,Materials,Specialty Chemicals,Chemicals,Materials,151010,15
+PM UN Equity,Consumer Staples,Tobacco,Tobacco,"Food, Beverage & Tobacco",302030,30
+CRM UN Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+IR UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+HII UN Equity,Industrials,Aerospace & Defense,Aerospace & Defense,Capital Goods,201010,20
+ROP UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+MET UN Equity,Financials,Life & Health Insurance,Insurance,Insurance,403010,40
+TPR UN Equity,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Textiles, Apparel & Luxury Goods",Consumer Durables & Apparel,252030,25
+CSX UW Equity,Industrials,Rail Transportation,Ground Transportation,Transportation,203040,20
+EW UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+AMP UN Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+ZBRA UW Equity,Information Technology,Electronic Equipment & Instruments,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment,452030,45
+ZBH UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+CBRE UN Equity,Real Estate,Real Estate Services,Real Estate Management & Development,Real Estate Management & Development,602010,60
+CPT UN Equity,Real Estate,Multi-Family Residential REITs,Residential REITs,Equity Real Estate Investment Trusts (REITs),601060,60
+MA UN Equity,Financials,Transaction & Payment Processing Services,Financial Services,Financial Services,402010,40
+KMX UN Equity,Consumer Discretionary,Automotive Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+ICE UN Equity,Financials,Financial Exchanges & Data,Capital Markets,Financial Services,402030,40
+SW UN Equity,Materials,Paper & Plastic Packaging Products & Materials,Containers & Packaging,Materials,151030,15
+FIS UN Equity,Financials,Transaction & Payment Processing Services,Financial Services,Financial Services,402010,40
+CMG UN Equity,Consumer Discretionary,Restaurants,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+WYNN UW Equity,Consumer Discretionary,Casinos & Gaming,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+LYV UN Equity,Communication Services,Movies & Entertainment,Entertainment,Media & Entertainment,502020,50
+AIZ UN Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+NRG UN Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+RF UN Equity,Financials,Regional Banks,Banks,Banks,401010,40
+MNST UW Equity,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Beverages,"Food, Beverage & Tobacco",302010,30
+MOS UN Equity,Materials,Fertilizers & Agricultural Chemicals,Chemicals,Materials,151010,15
+BKR UW Equity,Energy,Oil & Gas Equipment & Services,Energy Equipment & Services,Energy,101010,10
+EXPE UW Equity,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Hotels, Restaurants & Leisure",Consumer Services,253010,25
+CF UN Equity,Materials,Fertilizers & Agricultural Chemicals,Chemicals,Materials,151010,15
+LDOS UN Equity,Industrials,Research & Consulting Services,Professional Services,Commercial & Professional Services,202020,20
+APA UW Equity,Energy,Oil & Gas Exploration & Production,"Oil, Gas & Consumable Fuels",Energy,101020,10
+GOOG UW Equity,Communication Services,Interactive Media & Services,Interactive Media & Services,Media & Entertainment,502030,50
+FSLR UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+DFS UN Equity,Financials,Consumer Finance,Consumer Finance,Financial Services,402020,40
+V UN Equity,Financials,Transaction & Payment Processing Services,Financial Services,Financial Services,402010,40
+MAA UN Equity,Real Estate,Multi-Family Residential REITs,Residential REITs,Equity Real Estate Investment Trusts (REITs),601060,60
+XYL UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+MPC UN Equity,Energy,Oil & Gas Refining & Marketing,"Oil, Gas & Consumable Fuels",Energy,101020,10
+AMD UW Equity,Information Technology,Semiconductors,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+TSCO UW Equity,Consumer Discretionary,Other Specialty Retail,Specialty Retail,Consumer Discretionary Distribution & Retail,255040,25
+RMD UN Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+MTD UN Equity,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences",352030,35
+J UN Equity,Industrials,Research & Consulting Services,Professional Services,Commercial & Professional Services,202020,20
+CPRT UW Equity,Industrials,Diversified Support Services,Commercial Services & Supplies,Commercial & Professional Services,202010,20
+VICI UN Equity,Real Estate,Other Specialized REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+FTNT UW Equity,Information Technology,Systems Software,Software,Software & Services,451030,45
+ALB UN Equity,Materials,Specialty Chemicals,Chemicals,Materials,151010,15
+MRNA UW Equity,Health Care,Biotechnology,Biotechnology,"Pharmaceuticals, Biotechnology & Life Sciences",352010,35
+ESS UN Equity,Real Estate,Multi-Family Residential REITs,Residential REITs,Equity Real Estate Investment Trusts (REITs),601060,60
+CSGP UW Equity,Real Estate,Real Estate Services,Real Estate Management & Development,Real Estate Management & Development,602010,60
+O UN Equity,Real Estate,Retail REITs,Retail REITs,Equity Real Estate Investment Trusts (REITs),601070,60
+PLTR UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+WAB UN Equity,Industrials,Construction Machinery & Heavy Transportation Equipment,Machinery,Capital Goods,201060,20
+POOL UW Equity,Consumer Discretionary,Distributors,Distributors,Consumer Discretionary Distribution & Retail,255010,25
+WDC UW Equity,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",Technology Hardware & Equipment,452020,45
+PEP UW Equity,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Beverages,"Food, Beverage & Tobacco",302010,30
+TEL UN Equity,Information Technology,Electronic Manufacturing Services,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment,452030,45
+FANG UW Equity,Energy,Oil & Gas Exploration & Production,"Oil, Gas & Consumable Fuels",Energy,101020,10
+PANW UW Equity,Information Technology,Systems Software,Software,Software & Services,451030,45
+NOW UN Equity,Information Technology,Systems Software,Software,Software & Services,451030,45
+CHD UN Equity,Consumer Staples,Household Products,Household Products,Household & Personal Products,303010,30
+FRT UN Equity,Real Estate,Retail REITs,Retail REITs,Equity Real Estate Investment Trusts (REITs),601070,60
+MGM UN Equity,Consumer Discretionary,Casinos & Gaming,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+AEP UW Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+INVH UN Equity,Real Estate,Single-Family Residential REITs,Residential REITs,Equity Real Estate Investment Trusts (REITs),601060,60
+PTC UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+JBHT UW Equity,Industrials,Cargo Ground Transportation,Ground Transportation,Transportation,203040,20
+LRCX UW Equity,Information Technology,Semiconductor Materials & Equipment,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+MHK UN Equity,Consumer Discretionary,Home Furnishings,Household Durables,Consumer Durables & Apparel,252010,25
+PNR UN Equity,Industrials,Industrial Machinery & Supplies & Components,Machinery,Capital Goods,201060,20
+GEHC UW Equity,Health Care,Health Care Equipment,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+VRTX UW Equity,Health Care,Biotechnology,Biotechnology,"Pharmaceuticals, Biotechnology & Life Sciences",352010,35
+AMCR UN Equity,Materials,Paper & Plastic Packaging Products & Materials,Containers & Packaging,Materials,151030,15
+META UW Equity,Communication Services,Interactive Media & Services,Interactive Media & Services,Media & Entertainment,502030,50
+TMUS UW Equity,Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,Telecommunication Services,501020,50
+URI UN Equity,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,Capital Goods,201070,20
+HON UW Equity,Industrials,Industrial Conglomerates,Industrial Conglomerates,Capital Goods,201050,20
+ARE UN Equity,Real Estate,Health Care REITs,Health Care REITs,Equity Real Estate Investment Trusts (REITs),601050,60
+DAL UN Equity,Industrials,Passenger Airlines,Passenger Airlines,Transportation,203020,20
+STX UW Equity,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",Technology Hardware & Equipment,452020,45
+UAL UW Equity,Industrials,Passenger Airlines,Passenger Airlines,Transportation,203020,20
+NWS UW Equity,Communication Services,Publishing,Media,Media & Entertainment,502010,50
+CNC UN Equity,Health Care,Managed Health Care,Health Care Providers & Services,Health Care Equipment & Services,351020,35
+MLM UN Equity,Materials,Construction Materials,Construction Materials,Materials,151020,15
+APO UN Equity,Financials,Diversified Financial Services,Financial Services,Financial Services,402010,40
+TER UW Equity,Information Technology,Semiconductor Materials & Equipment,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,453010,45
+PYPL UW Equity,Financials,Transaction & Payment Processing Services,Financial Services,Financial Services,402010,40
+TSLA UW Equity,Consumer Discretionary,Automobile Manufacturers,Automobiles,Automobiles & Components,251020,25
+BLK UN Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+ACGL UW Equity,Financials,Property & Casualty Insurance,Insurance,Insurance,403010,40
+KKR UN Equity,Financials,Asset Management & Custody Banks,Capital Markets,Financial Services,402030,40
+DOW UN Equity,Materials,Commodity Chemicals,Chemicals,Materials,151010,15
+EG UN Equity,Financials,Reinsurance,Insurance,Insurance,403010,40
+TDY UN Equity,Information Technology,Electronic Equipment & Instruments,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment,452030,45
+GEV UN Equity,Industrials,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,201040,20
+DPZ UW Equity,Consumer Discretionary,Restaurants,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+NWSA UW Equity,Communication Services,Publishing,Media,Media & Entertainment,502010,50
+EXC UW Equity,Utilities,Electric Utilities,Electric Utilities,Utilities,551010,55
+GPN UN Equity,Financials,Transaction & Payment Processing Services,Financial Services,Financial Services,402010,40
+CCI UN Equity,Real Estate,Telecom Tower REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+ALGN UW Equity,Health Care,Health Care Supplies,Health Care Equipment & Supplies,Health Care Equipment & Services,351010,35
+KVUE UN Equity,Consumer Staples,Personal Care Products,Personal Care Products,Household & Personal Products,303020,30
+TRGP UN Equity,Energy,Oil & Gas Storage & Transportation,"Oil, Gas & Consumable Fuels",Energy,101020,10
+BG UN Equity,Consumer Staples,Agricultural Products & Services,Food Products,"Food, Beverage & Tobacco",302020,30
+DECK UN Equity,Consumer Discretionary,Footwear,"Textiles, Apparel & Luxury Goods",Consumer Durables & Apparel,252030,25
+LKQ UW Equity,Consumer Discretionary,Distributors,Distributors,Consumer Discretionary Distribution & Retail,255010,25
+WDAY UW Equity,Information Technology,Application Software,Software,Software & Services,451030,45
+ZTS UN Equity,Health Care,Pharmaceuticals,Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences",352020,35
+DLR UN Equity,Real Estate,Data Center REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+EQIX UW Equity,Real Estate,Data Center REITs,Specialized REITs,Equity Real Estate Investment Trusts (REITs),601080,60
+LVS UN Equity,Consumer Discretionary,Casinos & Gaming,"Hotels, Restaurants & Leisure",Consumer Services,253010,25
+MOH UN Equity,Health Care,Managed Health Care,Health Care Providers & Services,Health Care Equipment & Services,351020,35
