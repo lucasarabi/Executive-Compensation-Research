@@ -4,7 +4,6 @@ effect on dividend policy
 
 Researchers:
 - Andrew Echezabal
-- Danny Segundo
 - Anthony Rodriguez
 - Lucas Arabi
 - Eduardo Rodriguez
