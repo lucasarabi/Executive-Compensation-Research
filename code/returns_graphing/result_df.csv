@@ -1,0 +1,111 @@
+,gics_sector_name,compensation_bins,yearly_percent_return
+0,Communication Services,"(-0.001, 0.1]",
+1,Communication Services,"(0.1, 0.2]",1.1219047893075746
+2,Communication Services,"(0.2, 0.3]",1.157917159038531
+3,Communication Services,"(0.3, 0.4]",
+4,Communication Services,"(0.4, 0.5]",
+5,Communication Services,"(0.5, 0.6]",
+6,Communication Services,"(0.6, 0.7]",
+7,Communication Services,"(0.7, 0.8]",
+8,Communication Services,"(0.8, 0.9]",
+9,Communication Services,"(0.9, 1.0]",
+10,Consumer Discretionary,"(-0.001, 0.1]",
+11,Consumer Discretionary,"(0.1, 0.2]",
+12,Consumer Discretionary,"(0.2, 0.3]",
+13,Consumer Discretionary,"(0.3, 0.4]",
+14,Consumer Discretionary,"(0.4, 0.5]",
+15,Consumer Discretionary,"(0.5, 0.6]",
+16,Consumer Discretionary,"(0.6, 0.7]",
+17,Consumer Discretionary,"(0.7, 0.8]",
+18,Consumer Discretionary,"(0.8, 0.9]",
+19,Consumer Discretionary,"(0.9, 1.0]",
+20,Consumer Staples,"(-0.001, 0.1]",
+21,Consumer Staples,"(0.1, 0.2]",
+22,Consumer Staples,"(0.2, 0.3]",
+23,Consumer Staples,"(0.3, 0.4]",
+24,Consumer Staples,"(0.4, 0.5]",
+25,Consumer Staples,"(0.5, 0.6]",
+26,Consumer Staples,"(0.6, 0.7]",
+27,Consumer Staples,"(0.7, 0.8]",
+28,Consumer Staples,"(0.8, 0.9]",
+29,Consumer Staples,"(0.9, 1.0]",
+30,Energy,"(-0.001, 0.1]",1.0695557455305615
+31,Energy,"(0.1, 0.2]",1.1158790491797155
+32,Energy,"(0.2, 0.3]",1.1360525302408035
+33,Energy,"(0.3, 0.4]",1.114238572561844
+34,Energy,"(0.4, 0.5]",
+35,Energy,"(0.5, 0.6]",
+36,Energy,"(0.6, 0.7]",1.1655353563251565
+37,Energy,"(0.7, 0.8]",
+38,Energy,"(0.8, 0.9]",
+39,Energy,"(0.9, 1.0]",1.1270961689664607
+40,Financials,"(-0.001, 0.1]",1.1230487764523533
+41,Financials,"(0.1, 0.2]",1.144394095008333
+42,Financials,"(0.2, 0.3]",1.134075271406501
+43,Financials,"(0.3, 0.4]",1.1407098985449102
+44,Financials,"(0.4, 0.5]",1.150458039961214
+45,Financials,"(0.5, 0.6]",
+46,Financials,"(0.6, 0.7]",
+47,Financials,"(0.7, 0.8]",
+48,Financials,"(0.8, 0.9]",
+49,Financials,"(0.9, 1.0]",
+50,Health Care,"(-0.001, 0.1]",
+51,Health Care,"(0.1, 0.2]",
+52,Health Care,"(0.2, 0.3]",
+53,Health Care,"(0.3, 0.4]",
+54,Health Care,"(0.4, 0.5]",
+55,Health Care,"(0.5, 0.6]",
+56,Health Care,"(0.6, 0.7]",
+57,Health Care,"(0.7, 0.8]",
+58,Health Care,"(0.8, 0.9]",
+59,Health Care,"(0.9, 1.0]",
+60,Industrials,"(-0.001, 0.1]",1.1273773547450112
+61,Industrials,"(0.1, 0.2]",1.194702519711097
+62,Industrials,"(0.2, 0.3]",1.1975305616952097
+63,Industrials,"(0.3, 0.4]",
+64,Industrials,"(0.4, 0.5]",
+65,Industrials,"(0.5, 0.6]",1.1662975494360301
+66,Industrials,"(0.6, 0.7]",1.1767621890224043
+67,Industrials,"(0.7, 0.8]",
+68,Industrials,"(0.8, 0.9]",
+69,Industrials,"(0.9, 1.0]",
+70,Information Technology,"(-0.001, 0.1]",1.1142589198882786
+71,Information Technology,"(0.1, 0.2]",
+72,Information Technology,"(0.2, 0.3]",
+73,Information Technology,"(0.3, 0.4]",
+74,Information Technology,"(0.4, 0.5]",
+75,Information Technology,"(0.5, 0.6]",
+76,Information Technology,"(0.6, 0.7]",
+77,Information Technology,"(0.7, 0.8]",
+78,Information Technology,"(0.8, 0.9]",
+79,Information Technology,"(0.9, 1.0]",1.1390384513922787
+80,Materials,"(-0.001, 0.1]",
+81,Materials,"(0.1, 0.2]",1.238806305847376
+82,Materials,"(0.2, 0.3]",1.1540559149394216
+83,Materials,"(0.3, 0.4]",
+84,Materials,"(0.4, 0.5]",
+85,Materials,"(0.5, 0.6]",
+86,Materials,"(0.6, 0.7]",
+87,Materials,"(0.7, 0.8]",
+88,Materials,"(0.8, 0.9]",
+89,Materials,"(0.9, 1.0]",
+90,Real Estate,"(-0.001, 0.1]",
+91,Real Estate,"(0.1, 0.2]",
+92,Real Estate,"(0.2, 0.3]",
+93,Real Estate,"(0.3, 0.4]",
+94,Real Estate,"(0.4, 0.5]",
+95,Real Estate,"(0.5, 0.6]",
+96,Real Estate,"(0.6, 0.7]",
+97,Real Estate,"(0.7, 0.8]",
+98,Real Estate,"(0.8, 0.9]",
+99,Real Estate,"(0.9, 1.0]",
+100,Utilities,"(-0.001, 0.1]",
+101,Utilities,"(0.1, 0.2]",
+102,Utilities,"(0.2, 0.3]",
+103,Utilities,"(0.3, 0.4]",
+104,Utilities,"(0.4, 0.5]",
+105,Utilities,"(0.5, 0.6]",
+106,Utilities,"(0.6, 0.7]",
+107,Utilities,"(0.7, 0.8]",
+108,Utilities,"(0.8, 0.9]",
+109,Utilities,"(0.9, 1.0]",
